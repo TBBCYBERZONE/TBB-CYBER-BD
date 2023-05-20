@@ -1,1 +1,9 @@
 # TBB-CYBER-BD
+
+RANDOM NUMBER CLONING 
+
+git clone https://github.com/TBBCYBERZONE/TBB-CYBER-BD
+
+cd TBB-CYBER-BD
+
+python TBB-CYBER-BD.py
